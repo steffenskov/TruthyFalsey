@@ -1,0 +1,18 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TruthyFalsey/TruthyFalsey.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/TruthyFalsey.UnitTests/TruthyFalsey.UnitTests.csproj" />
+  </Folder>
+  <Folder Name="/_items/">
+    <File Path=".editorconfig" />
+    <File Path=".gitignore" />
+    <File Path="CHANGELOG.md" />
+    <File Path="code_of_conduct.md" />
+    <File Path="CONTRIBUTING.md" />
+    <File Path="Directory.Build.props" />
+    <File Path="Directory.Packages.props" />
+    <File Path="README.md" />
+  </Folder>
+</Solution>

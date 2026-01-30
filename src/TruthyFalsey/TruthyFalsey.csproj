@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+
+        <Description>Slim .Net package giving you Truthy and Falsey evalution in C# similar to JavaScript.</Description>
+        <PackageProjectUrl>https://github.com/steffenskov/TruthyFalsey</PackageProjectUrl>
+        <PackageTags>truthy, falsey</PackageTags>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
+    </PropertyGroup>
+    <ItemGroup>
+        <None Include="../../README.md" Pack="true" PackagePath="\"/>
+        <None Include="../../CHANGELOG.md" Pack="true" PackagePath="\"/>
+    </ItemGroup>
+
+</Project>
