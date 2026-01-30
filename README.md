@@ -60,8 +60,3 @@ public static bool operator true
 public static bool operator false
 public static bool operator !
 ```
-
-# Documentation
-
-Auto generated documentation via [DocFx](https://github.com/dotnet/docfx) is available
-here: https://steffenskov.github.io/TruthyFalsey/
