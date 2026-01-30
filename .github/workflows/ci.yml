@@ -11,7 +11,7 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  SOLUTION_PATH: 'TruthyFalsey.slnx'
+  SOLUTION_PATH: '*.slnx'
   PACKAGE_OUTPUT_DIRECTORY: ${{ github.workspace }}\output
   NUGET_SOURCE_URL: 'https://api.nuget.org/v3/index.json'
 
