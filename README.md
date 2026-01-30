@@ -1,6 +1,6 @@
 # Want to see what's changed?
 
-[Changelog](https://github.com/steffenskov/StrongTypedId/blob/main/CHANGELOG.md)
+[Changelog](https://github.com/steffenskov/TruthyFalsey/blob/main/CHANGELOG.md)
 
 # TruthyFalsey
 
