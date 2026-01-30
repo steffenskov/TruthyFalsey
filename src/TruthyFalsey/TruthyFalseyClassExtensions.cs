@@ -11,17 +11,17 @@ public static class TruthyFalseyClassExtensions
 	{
 		public static bool operator true(object? item)
 		{
-			return item != null;
+			return item is not null;
 		}
 
 		public static bool operator false(object? item)
 		{
-			return item == null;
+			return item is null;
 		}
 
 		public static bool operator !(object? item)
 		{
-			return item == null;
+			return item is null;
 		}
 	}
 }
