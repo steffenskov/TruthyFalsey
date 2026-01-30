@@ -10,7 +10,7 @@ concurrency:
 
 env:
   PROJECT_PATH: 'src/TruthyFalsey/TruthyFalsey.csproj'
-  SOLUTION_PATH: 'TruthyFalsey.slnx'
+  SOLUTION_PATH: '*.slnx'
   PACKAGE_OUTPUT_DIRECTORY: ${{ github.workspace }}/output
   NUGET_SOURCE_URL: 'https://api.nuget.org/v3/index.json'
 
